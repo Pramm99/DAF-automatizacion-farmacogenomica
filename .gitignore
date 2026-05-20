@@ -1,0 +1,15 @@
+# Entornos virtuales y dependencias de Python
+__pycache__/
+*.py[cod]
+*venv/
+env/
+
+# Archivos de empaquetado e instaladores pesados
+*.zip
+/build/
+/dist/
+
+# Evitar subida de datos masivos accidentales (solo permitimos los de la carpeta data)
+*.csv
+*.xlsx
+!data/
