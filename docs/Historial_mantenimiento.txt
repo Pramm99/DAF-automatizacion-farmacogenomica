@@ -1,0 +1,9 @@
+Esta ejecución hay que hacerla por lo menos cada 3 meses para asegurarse que el sistema se mantiene actualizado.
+
+Para realizar el mantenimiento hay que ejecutar el archivo mantenimiento_API.py ; este te indicará si es necesario realizar algún cambio en el script o no.
+
+Si se realiza algún cambio en el nombre de un archivo hay que actualizarlo en los demás archivos en consecuencia puesto que la gran mayoría dependen unos de otros.
+
+Historial de actualizaciones de más nueva a más vieja:
+
+- Fecha Actualización / Cambios(Si/No) / Si hubo cambio hay que indicarlos
