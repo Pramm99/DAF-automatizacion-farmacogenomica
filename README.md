@@ -1,6 +1,6 @@
 # DAF (Detección Automática de Fenotipos) -automatizacion-farmacogenomica
 
-![Python](https://img.shields.io/badge/Python-3.12+-blue?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat&logo=python&logoColor=white)
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=flat&logo=windows&logoColor=white)
 ![HealthTech](https://img.shields.io/badge/HealthTech-CDSS-10b981?style=flat&logo=health&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-f59e0b?style=flat)
