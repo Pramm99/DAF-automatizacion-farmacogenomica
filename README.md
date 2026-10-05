@@ -78,6 +78,6 @@ Visualiza los resultados. Puedes usar el botón "Ocultar Sanos" (⚠️) para fi
 
 ## 👤 Autores del proyecto
 * **Pablo Rey Mariño** *  💼 LinkedIn: 'https://www.linkedin.com/in/pablo-rey-mariño/'
-*  **Iria  Varela Palmas** 
+*  **Iria  Varela Palmas** 💼 LinkedIn: 'https://www.linkedin.com/in/iria-varela-palm%C3%A1s-176650410/'
 *  **Luis Pérez Jiménez** 💼 LinkedIn:'https://www.linkedin.com/in/luis-pj-524135268/'
 * 🏢 Proyecto desarrollado para la Fundación Pública Galega de Medicina Xenómica.
